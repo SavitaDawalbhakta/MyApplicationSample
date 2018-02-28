@@ -1,0 +1,1 @@
+This file will be ignored by git as I added it in getignore. So whenever we have any file not to include in git repository , include them to getignore.
